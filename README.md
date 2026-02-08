@@ -34,7 +34,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     alt="Python" 
     title="Python"
     width="50px" 
-    style="margin-right: 16px;" 
+    style="margin-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
@@ -42,7 +42,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     alt="Java"
     title="Java" 
     width="50px" 
-    style="margin-right: 16px;" 
+    style="margin-right: 25px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
