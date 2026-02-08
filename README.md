@@ -34,7 +34,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     alt="Python" 
     title="Python"
     width="50px" 
-    style="margin-right: 30px;" 
+    style="margin-right: 70px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
@@ -42,7 +42,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     alt="Java"
     title="Java" 
     width="50px" 
-    style="margin-right: 30px;" 
+    style="margin-right: 70px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img 
@@ -50,7 +50,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     alt="MySQL" 
     title="MySQL"
     width="50px" 
-    style="margin-right: 30px;" 
+    style="margin-right: 70px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"         
 />
 <img 
@@ -58,7 +58,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     alt="HTML"
     title="HTML" 
     width="50px" 
-    style="margin-right: 30px;" 
+    style="margin-right: 70px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -66,7 +66,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     alt="CSS" 
     title="CSS"
     width="50px" 
-    style="margin-right: 30px;" 
+    style="margin-right: 70px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -74,7 +74,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     alt="Git" 
     title="Git"
     width="50px" 
-    style="margin-right: 30px;" 
+    style="margin-right: 70px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
@@ -82,7 +82,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     alt="VSCode" 
     title="VSCode"
     width="50px" 
-    style="margin-right: 30px;" 
+    style="margin-right: 70px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"       
 />
 
