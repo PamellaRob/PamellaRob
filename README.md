@@ -33,7 +33,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     aling="left" 
     alt="Python" 
     title="Python"
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -41,7 +41,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     aling="left" 
     alt="Java"
     title="Java" 
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
@@ -49,7 +49,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     aling="left" 
     alt="MySQL" 
     title="MySQL"
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"         
 />
@@ -57,7 +57,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     aling="left" 
     alt="HTML"
     title="HTML" 
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -65,7 +65,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     aling="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -73,7 +73,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     aling="left" 
     alt="Git" 
     title="Git"
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -81,7 +81,7 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
     aling="left" 
     alt="VSCode" 
     title="VSCode"
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"       
 />
