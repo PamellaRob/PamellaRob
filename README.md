@@ -93,12 +93,12 @@ Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e pro
 <p>
       <img
         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=PamellaRob&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_color=FFFFFFE&locale=pt-br"
-     height="192px"
+     height="100px"
         />
       <img
           width="460"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=PamellaRob&langs_count=8&layout=compact&theme=tokyonight&hide_border=false&border_color=FFFFFF&hide=Jupyter%20Notebook,Roff&locale=pt-br"
-      height="92px"
+      height="192px"
         />
 </p>
 
