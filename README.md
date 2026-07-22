@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Pamella Roberta
 
-**`Desenvolvedora Back-End`**
+**`Estudante de Engenharia de Software`**
 
-Me chamo Pamella Roberta dos Santos Silva, tenho 19 anos e sou estudante de Engenharia de Software. Sou formada em Técnico em Desenvolvimento de Sistemas pelo IFPI, com foco em desenvolvimento backend e área de dados.
+Me chamo Pamella Roberta dos Santos Silva, tenho 20 anos e sou estudante de Engenharia de Software. Sou formada em Técnico em Desenvolvimento de Sistemas pelo IFPI, com foco em desenvolvimento backend e área de dados.
 
 Atualmente, aprofundo meus estudos em Python e SQL, desenvolvendo sistemas e projetos voltados a dados, com o objetivo de criar soluções que gerem impacto real. Sou apaixonada por tecnologia e por resolver problemas com código, curiosa, dedicada e em constante aprendizado, compartilhando minha jornada na área de tecnologia.
 
